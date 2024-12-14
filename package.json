@@ -1,0 +1,34 @@
+{
+  "name": "postpeaks-server",
+  "version": "1.0.0",
+  "description": "A personal blog sharing your thoughts on technology, travel, and daily life etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khalid09dev/PostPeaksServer.git"
+  },
+  "keywords": [
+    "blog",
+    "blgging",
+    "backend",
+    "nodejs",
+    "expressjs",
+    "content-management",
+    "api"
+  ],
+  "author": "Md Khalid Hossen <mdkhalidhossen10@gmail.com> (https://khalid3dportfolio.web.app)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khalid09dev/PostPeaksServer/issues"
+  },
+  "homepage": "https://github.com/Khalid09dev/PostPeaksServer#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
